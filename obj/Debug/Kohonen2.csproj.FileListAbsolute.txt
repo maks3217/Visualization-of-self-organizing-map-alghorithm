@@ -1,0 +1,14 @@
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\bin\Debug\Kohonen2.exe.config
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\bin\Debug\Kohonen2.exe
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\bin\Debug\Kohonen2.pdb
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\MainWindow.g.cs
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\App.g.cs
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2_MarkupCompile.cache
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2_MarkupCompile.lref
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\MainWindow.baml
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2.g.resources
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2.Properties.Resources.resources
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2.csproj.GenerateResource.Cache
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2.exe
+C:\Users\Maks\source\repos\Kohonen2\Kohonen2\obj\Debug\Kohonen2.pdb
